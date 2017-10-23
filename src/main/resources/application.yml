@@ -8,8 +8,8 @@ security:
 
 config:
     oauth2:
-        clientID: demo
-        clientSecret: demo
-        accessTokenUri: http://localhost:8080/oauth/token
-        userAuthorizationUri: http://localhost:8080/oauth/authorize
-        resourceURI: http://localhost:8080/me
+        clientID: 444444
+        clientSecret: F0z7ENPieSyYyAZuKMpA
+        accessTokenUri: http://localhost:9090/oauth/token
+        userAuthorizationUri: http://localhost:9090/oauth/authorize
+        resourceURI: http://localhost:8080/api/me
